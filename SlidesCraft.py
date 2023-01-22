@@ -248,5 +248,4 @@ if __name__=="__main__":
 	sys.exit(app.exec_())
 
 
-#>>> This project is made by Syed Hamza for the Auto Hacks - Hackathon hosted by PSN Hack Club
 
